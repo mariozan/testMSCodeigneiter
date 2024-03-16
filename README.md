@@ -1,0 +1,5 @@
+- Composer Install
+- Config Database Connection
+- Run Migrations
+- Run with php spark serve
+- Enjoy
